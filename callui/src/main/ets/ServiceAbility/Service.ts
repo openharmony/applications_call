@@ -17,8 +17,8 @@
  * @file: service entry
  */
 
-import CallManagerService from './CallManagerService.ets';
-import HiLog from '../default/common/utils/Hilog.ets';
+import CallManagerService from './CallManagerService';
+import HiLog from '../default/common/utils/Hilog';
 
 const TAG = "Service";
 
